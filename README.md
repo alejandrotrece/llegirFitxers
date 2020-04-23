@@ -1,5 +1,8 @@
 # Exercicis / Reptes - Setmana 14 d'abril
 
+# Heu de llegir el fitxer que han triat i mostrar-li el contingut del fitxer
+# Els arxius estan a la carpeta xocolataFabrica i allà es diuen xocolata1.txt .. xocolata2.txt ... i així fins a xocolata10.txt
+# Per obrir l'arxiu, el nom d'aquest és  xocolataFabrica/xocolata1.txt  si l'usuari vol el paquet 1
 Aquí teniu els exercicis que corresponen a la lectura d'arxius (fitxers). Heu de fer els que pugueu amb una dedicació màxima de tres hores.
 Haurieu d'intentar com a mínim els tres primers exercicis.
 
